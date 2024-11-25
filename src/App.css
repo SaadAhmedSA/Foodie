@@ -118,7 +118,7 @@ nav {
   background-color: #e48f0f;
 }
 .about-section-container {
-  margin-top: 20rem;
+  margin-top: 5rem;
   position: relative;
   display: flex;
   align-items: center;
@@ -261,7 +261,7 @@ nav {
   margin-top: 1.5rem;
 }
 .work-section-wrapper {
-  margin-top: 15rem;
+  margin-top: 5rem;
 }
 .work-section-top p {
   text-align: center;
@@ -408,6 +408,7 @@ nav {
   }
   .footer-wrapper {
     flex-direction: column;
+    background-color: black;
   }
   .footer-section-two {
     flex-direction: column;
